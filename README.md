@@ -1,4 +1,4 @@
-# Invert Image Only
+# Invert Images Only
 
 
 ## Why
